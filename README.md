@@ -19,5 +19,5 @@ With this as the backdrop, our goal is to build a classification model to predic
 
 ### Methodology
 - Using U.S. county-level data, construct a classification model to determine the probability of each county containing the target variable (warehouse presence).
-- Model utilized was logistic regression.
+- Model utilized was logistic regression with SMOTE to alleviate class imbalance.
 - False positive classifications were used a proxy to determine likely counties. 
