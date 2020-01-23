@@ -2,8 +2,8 @@
 Analysis on retail fulfillment centers and likely future candidates
 
 ### Project Members
-   - <b>[Justin Fleury](https://github.com/jfleury20)</b>
    - <b>[Aaron Childress](https://github.com/achildress83)</b>
+   - <b>[Justin Fleury](https://github.com/jfleury20)</b>
    
 ### Project Scope and Background
 Logistics has become a hot area for investment across the supply chain, from startups disrupting the trucking space all the way down to the commercial real estate on which warehouses are built. Major retailers like Amazon and Walmart are ever expanding their warehouse footprint in competition with each other to get goods and services to customers as fast as possible and at the best price – this requires scale. Moreover, US warehouse square footage is expected to reach 15 billion by 2023.
