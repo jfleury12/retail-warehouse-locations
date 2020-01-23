@@ -18,4 +18,6 @@ With this as the backdrop, our goal is to build a classification model to predic
 - Based on demographic characteristics, be able to determine which U.S. counties are likely to open major retail warehouses.
 
 ### Methodology
-- Using U.S. county-level data, construct a classification model to determine the probability of each county containing the target variable (warehouse presence). False positive classifications were used a proxy to determine likely counties. 
+- Using U.S. county-level data, construct a classification model to determine the probability of each county containing the target variable (warehouse presence).
+- Model utilized was logistic regression.
+- False positive classifications were used a proxy to determine likely counties. 
