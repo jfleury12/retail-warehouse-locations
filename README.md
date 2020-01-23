@@ -1,11 +1,11 @@
-# retail-warehouse-locations
+# Predicting Retail Warehouse Locations
 Analysis on retail fulfillment centers and likely future candidates
 
-# Project Members
+### Project Members
    - <b>[Justin Fleury](https://github.com/jfleury20)</b>
    - <b>[Aaron Childress](https://github.com/achildress83)</b>
    
-# Project Scope and Background
+### Project Scope and Background
 Logistics has become a hot area for investment across the supply chain, from startups disrupting the trucking space all the way down to the commercial real estate on which warehouses are built. Major retailers like Amazon and Walmart are ever expanding their warehouse footprint in competition with each other to get goods and services to customers as fast as possible and at the best price – this requires scale. Moreover, US warehouse square footage is expected to reach 15 billion by 2023.
 
 The average age of a U.S. warehouse is 34 years, according to a survey by real estate services firm CBRE. And that likely won't cut it for a retail industry that's moving increasingly toward e-commerce and fulfilling online orders for customers same day. In surveying facilities across 56 markets throughout the country, CBRE found most warehouses built before about 2005 lack modern upgrades: Ceilings are low, flooring is uneven and space is tight.
