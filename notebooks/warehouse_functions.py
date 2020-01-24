@@ -44,6 +44,7 @@ for feature in hypothesis_cols:
     means.append(mean_set)
 
 def hist_plot_1():
+
     columns = list(hypothesis_cols.columns)
     fig, axs = plt.subplots(5, 4,figsize=(15,15))
 
@@ -114,3 +115,6 @@ def hist_plot_1():
         ax.label_outer()
 
     return fig, axs
+
+
+
