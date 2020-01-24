@@ -31,3 +31,16 @@ Data primarily sourced from:
 - Demographic characteristics were examined for prediction such as: population density, median household income, unemployment rate, education level, net migration rate.
 - Model utilized was logistic regression with SMOTE to alleviate class imbalance.
 - False positive classifications were used a proxy to determine likely counties. 
+
+### Project Links
+
+#### Presentation
+- Predicting_Retail_Warehouses.pdf
+
+#### Technical Notebook
+- notebooks/warehouse_model.ipynb
+
+#### Working Notebooks
+- Scraping/Cleaning Wareshouse Locations: notebooks/amazon_FC_locations.ipynb
+- Census Data Cleaning: notebooks/data_cleaning_county.ipynb 
+- Exploratory Data Analysis: notebooks/exploratory_data_analysis.ipynb
