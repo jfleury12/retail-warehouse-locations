@@ -17,7 +17,30 @@ With this as the backdrop, our goal is to build a classification model to predic
 ### Project Goals
 - Based on demographic characteristics, be able to determine which U.S. counties are likely to open major retail warehouses.
 
+### Data
+Our analysis included 2364 out of roughly 3000 counties in the United States. This provided a good combination of practicality and interpretability. Analysis was narrowed to Amazon and Walmart locations.
+
+Data primarily sourced from:
+- U.S. Census Bureau ACS Survey
+- Zillow Home Value Index
+- USDA Economic Research Service Surveys
+- Publicly-available warehouse location data
+
 ### Methodology
 - Using U.S. county-level data, construct a classification model to determine the probability of each county containing the target variable (warehouse presence).
+- Demographic characteristics were examined for prediction such as: population density, median household income, unemployment rate, education level, net migration rate.
 - Model utilized was logistic regression with SMOTE to alleviate class imbalance.
 - False positive classifications were used a proxy to determine likely counties. 
+
+### Project Links
+
+#### Presentation
+- Predicting_Retail_Warehouses.pdf
+
+#### Technical Notebook
+- notebooks/warehouse_model.ipynb
+
+#### Working Notebooks
+- Scraping/Cleaning Wareshouse Locations: notebooks/amazon_FC_locations.ipynb
+- Census Data Cleaning: notebooks/data_cleaning_county.ipynb 
+- Exploratory Data Analysis: notebooks/exploratory_data_analysis.ipynb
